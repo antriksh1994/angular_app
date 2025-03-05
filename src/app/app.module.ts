@@ -3,8 +3,8 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ParentComponent } from './parent-child-communication/parent-component/parent.component';
-import { ChildComponent } from './parent-child-communication/child-component/child.component';
+import { ParentComponent } from './parent-component/parent.component';
+import { ChildComponent } from './child-component/child.component';
 
 @NgModule({
   declarations: [
